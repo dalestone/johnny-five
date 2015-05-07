@@ -513,16 +513,15 @@
         ]
       },
       {
-        "file": "joystick-claw.js",
-        "title": "Joystick - Claw control"
+        "file": "joystick-esplora.js",
+        "title": "Joystick - Esplora",
+        "breadboards": [
+          {"name": "esplora", "title": "Joystick - Esplora", "description": "Esplora joystick example."}
+        ]
       },
       {
         "file": "joystick-pantilt.js",
         "title": "Joystick - Pan + Tilt control"
-      },
-      {
-        "file": "joystick-motor-led.js",
-        "title": "Joystick - Motor control"
       }
     ]
   },
